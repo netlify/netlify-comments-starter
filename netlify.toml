@@ -1,0 +1,2 @@
+command = bin/netlify-comments build
+publish = dist/
