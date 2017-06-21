@@ -1,2 +1,3 @@
-command = bin/netlify-comments build
-publish = dist/
+[build]
+  command = "bin/netlify-comments build"
+  publish = "dist"
